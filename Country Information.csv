@@ -1,0 +1,111 @@
+Country,Continent,Combined value in $,GDP 2016 (in billion $),GDP/Capita (nominal),Democracy Index,Democracy Category
+Afghanistan,Asia,8875,19.47,584,2.55,Authoritarian
+Algeria,Africa,4310,156.1,3917,3.56,Authoritarian
+Argentina,South America,2507,545.9,12449,6.96,Flawed Democracy
+Armenia,Asia,2985,10.55,3615,4.11,Hybrid Regime
+Australia,Oceania,4365,1205,54069,9.09,Full Democracy
+Austria,Europe,650,386.4,44857,8.42,Full Democracy
+Azerbaijan,Asia,9238,37.85,3892,2.65,Authoritarian
+Bahrain,Asia,10494,31.86,22579,2.71,Authoritarian
+Bangladesh,Asia,390,221.4,1355,5.43,Hybrid Regime
+Benin,Africa,9054,8.58,818,5.61,Hybrid Regime
+Botswana,Africa,550,15.27,6917,7.81,Flawed Democracy
+Brazil,South America,43534,1796,8649,6.86,Flawed Democracy
+Brunei Darussalam,Asia,25077,11.4,26939,N.A.,Authoritarian
+Bulgaria,Europe,390,52.4,7465,7.03,Flawed Democracy
+Burkina Faso,Africa,1720,12.12,627,4.75,Hybrid Regime
+Cabo Verde,Africa,1055,1.61,3038,7.88,Flawed Democracy
+Cambodia,Asia,1071,20.02,1270,3.63,Authoritarian
+Canada,North America,5070,1530,42154,9.15,Full Democracy
+Chile,South America,725,247,13794,7.84,Flawed Democracy
+China,Asia,69311,11200,8126,3.1,Authoritarian
+Colombia,South America,3396,282.5,5806,6.67,Flawed Democracy
+Republic of the Congo,Africa,550,35,1517,1.61,Authoritarian
+Costa Rica,South America,590,57.44,11825,7.88,Flawed Democracy
+Côte d'Ivoire,Africa,1485,36.16,1552,3.93,Authoritarian
+Croatia,Europe,510,50.43,12159,6.63,Flawed Democracy
+Cuba,North America,4542,87.13,7815,3.31,Authoritarian
+Czechia,Europe,3890,192.9,18406,7.62,Flawed Democracy
+Denmark,Europe,388,306.1,53730,9.22,Full Democracy
+Egypt,Africa,356,336.1,2823,3.36,Authoritarian
+El Salvador,North America,1900,26.8,4224,6.43,Flawed Democracy
+Estonia,Europe,885,23.14,17782,7.79,Flawed Democracy
+Ethiopia,Africa,747,72.37,687,3.42,Authoritarian
+European Union,Europe,395,14800,N.A.,N.A.,N.A.
+Finland,Europe,445,236.8,43339,9.03,Full Democracy
+France,Europe,36494,2465,36826,7.8,Flawed Democracy
+French Polynesia,Oceania,440,4.8,19335,N.A.,N.A.
+Gabon,Africa,52695,14.21,7002,3.61,Authoritarian
+Gambia,Africa,1380,946.6,484,4.06,Hybrid Regime
+Georgia,Europe,750,14.33,3651,5.93,Hybrid Regime
+Germany,Europe,9655,3467,42456,8.61,Full Democracy
+Ghana,Africa,700,42.69,1517,6.69,Flawed Democracy
+Greece,Europe,1415,194.6,17230,7.29,Flawed Democracy
+Guinea,Africa,850,6.29,683,3.14,Authoritarian
+Haiti,North America,500,8.023,705,4.03,Hybrid Regime
+Holy See,Europe,10627,NA,,N.A.,N.A.
+India,Asia,20527,2264,1706,7.23,Flawed Democracy
+Indonesia,Asia,5928,932.3,3570,6.39,Flawed Democracy
+Iraq,Asia,2720,171.5,4301,4.09,Hybrid Regime
+Ireland,Europe,44649,294.1,64497,9.15,Full Democracy
+Israel,Asia,14620,318.7,38788,7.79,Flawed Democracy
+Italy,Europe,162242,1850,31279,7.98,Flawed Democracy
+Jamaica,North America,2216,14.03,4879,7.29,Flawed Democracy
+Japan,Asia,19047,4939,38640,7.88,Flawed Democracy
+Jordan,Asia,7860,38.65,4088,3.87,Authoritarian
+Kazakhstan,Asia,9260,133.7,7705,3.06,Authoritarian
+Kenya,Africa,3264,70.53,1455,5.11,Hybrid Regime
+Kuwait,Asia,43100,114,27229,3.85,Authoritarian
+Kyrgyzstan,Asia,485,6.55,1100,5.11,Hybrid Regime
+Laos,Asia,2423,15.9,2339,2.37,Authoritarian
+Lebanon,Asia,4520,47.5,8400,4.72,Hybrid Regime
+Libya,Africa,1400,18.54,6826,2.32,Authoritarian
+Lithuania,Europe,439,42.74,14707,7.41,Flawed Democracy
+Malaysia,Asia,11977,296.4,9508,6.54,Flawed Democracy
+Mali,Africa,2035,14.05,778,5.64,Hybrid Regime
+Mauritius,Africa,2535,12.16,9679,8.22,Full Democracy
+Mexico,North America,26896,1046,8444,6.41,Flawed Democracy
+Moldova,Europe,615,6.75,1668,5.94,Hybrid Regime
+Mongolia,Asia,880,11.16,3686,6.5,Flawed Democracy
+Morocco,Africa,7508,101.4,2937,4.87,Hybrid Regime
+Myanmar,Asia,6628,67.43,1242,3.83,Authoritarian
+Netherlands,Europe,3810,770.8,45753,8.89,Full Democracy
+New Zealand,Oceania,3200,185,40233,9.26,Full Democracy
+Nigeria,Africa,13785,405.1,2176,4.44,Hybrid Regime
+Oman,Asia,1900,66.29,14277,3.04,Authoritarian
+Pakistan,Asia,32110,283.7,1462,4.26,Hybrid Regime
+Palestine,Asia,1560,8,2796,4.46,Hybrid Regime
+Panama,North America,1089,55.19,13680,7.08,Flawed Democracy
+Paraguay,South America,1065,27.44,4039,6.31,Flawed Democracy
+Peru,South America,2169,192.1,6049,6.49,Flawed Democracy
+Philippines,Asia,9731,304.9,2951,6.71,Flawed Democracy
+Poland,Europe,3455,469.5,12332,6.67,Flawed Democracy
+Portugal,Europe,1565,204.6,19750,7.84,Flawed Democracy
+Qatar,Asia,136958,152.5,59324,3.19,Authoritarian
+Republic of Korea,Asia,7356,1411,27785,8,Flawed Democracy
+Russian Federation,Europe,13585,1238,8665,3.17,Authoritarian
+Saudi Arabia,Asia,866587,646.4,19817,1.93,Authoritarian
+Senegal,Africa,4235,14.77,948,6.15,Flawed Democracy
+Singapore,Asia,13930,297,52814,6.32,Flawed Democracy
+South Africa,Africa,1868,294.8,5105,7.24,Flawed Democracy
+South Sudan,Africa,865,2.9,534,N.A.,N.A.
+Spain,Europe,3402,1232,26695,8.08,Full Democracy
+Sri Lanka,Asia,635,81.32,3910,6.48,Flawed Democracy
+Suriname,South America,1575,3.62,5871,6.76,Flawed Democracy
+Swaziland,Africa,445,3.7,2983,3.03,Authoritarian
+Sweden,Europe,480,511,50687,9.39,Full Democracy
+Switzerland,Europe,2604,659.8,79609,9.03,Full Democracy
+Tanzania,Africa,11926,47.43,881,5.47,Hybrid Regime
+Thailand,Asia,4990,406.8,5911,4.63,Hybrid Regime
+Tibet,Asia,1410,N.A.,N.A.,,N.A.
+Togo,Africa,1940,4.4,585,3.05,Authoritarian
+Trinidad and Tobago,North America,620,20.99,17646,7.04,Flawed Democracy
+Tunisia,Africa,4295,42.06,3657,6.32,Flawed Democracy
+Turkey,Asia,16490,857.7,10863,4.88,Hybrid Regime
+Ukraine,Europe,720,93.27,2099,5.69,Hybrid Regime
+United Arab Emirates,Asia,1542,348.7,37622,2.69,Authoritarian
+United Kingdom,Europe,18417,2619,40249,8.53,Full Democracy
+United Nations,World,1600,N.A.,N.A.,N.A.,N.A.
+Uruguay,South America,1681,52.42,15221,8.12,Full Democracy
+Vietnam,Asia,1710,202.6,2171,3.08,Authoritarian
+Zambia,Africa,484,19.55,1270,5.68,Hybrid Regime

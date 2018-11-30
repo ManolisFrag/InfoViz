@@ -1,0 +1,40 @@
+﻿Data-set version 1.2 (29-10-2018)
+
+This is a meta-data file that describes the columns in a series of .csv files used during the LUCDH Information Visualization and the Humanities course. Except where indicated differently all data originate from an XML file listing Gifts to President Obama during his Presidency.
+
+Full_list.csv
+Date: date of reception of item(s) in yyyy-mm-dd format
+Year: year in which gift was received
+Donor: Individual or organization presenting the gift
+Items: Full description of all the items received as part of the gift
+Value: As estimated by the Protocol Gift Unit(https://2009-2017.state.gov/s/cpr/c29447.htm)
+Country: Name of country which is represented by the donor. Original entry changed to entry from country.name field of pycountry (https://pypi.org/project/pycountry/)
+Continent: Based on geographical convention.
+Regime: Based on 2017 Democracy Index of the Economist Intelligence Unit. Data source: Wikipedia (https://en.wikipedia.org/wiki/Democracy_Index)
+
+Item description wordcount.csv
+Count = absolute value of wordcount in item descriptions
+Word = words present in item descriptions. All in lower case.
+
+Year Information:
+Year: year in which gift was received
+Amount: total value of all gifts received during that year
+PEW Global Average Confidence in Obama: Average of all results of the PEW Research Center's Global Attitudes and Trends Survey (raw data can be downloaded at http://www.pewglobal.org/datasets/). The numerical quantity is ordinal data, based on the question asked to a global audience: "Tell me how much confidence you have in President Barack Obama to do the right thing regarding world affairs – a lot of confidence (1), some confidence(2), not too much confidence(3), or no confidence at all(4). In this data-set all "Do not know" and "Prefer not to answer" answers have been left out.
+World GDP (in trillion $): Based on data provided by the World Bank (source: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) 
+
+Country information.csv:
+Country: Name of country which is represented by the donor. Original entry changed to entry from country.name field of pycountry (https://pypi.org/project/pycountry/)
+Continent: Based on geographical convention.
+Combined value in $: The combined value of all gifts given by a country.
+GDP 2016: Gross Domestic Product (nominal) in 2016 as reported by the World Bank: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?contextual=default&end=2017&name_desc=true&start=2016
+GDP/Capita: Gross Domestic Product (nominal) by capita as reported by the United Nations. Source: https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita
+
+Hillary_Sample.csv: This file is only a sample of the available data for Hillary Rodham Clinton's federal recorded gifts
+Date: date of reception of item(s) in yyyy-mm-dd format
+Year: year in which gift was received
+Donor: Individual or organization presenting the gift
+Items: Full description of all the items received as part of the gift
+Value: As estimated by the Protocol Gift Unit(https://2009-2017.state.gov/s/cpr/c29447.htm)
+Country: Name of country which is represented by the donor. Original entry changed to entry from country.name field of pycountry (https://pypi.org/project/pycountry/)
+Continent: Based on geographical convention.
+Regime: Based on 2017 Democracy Index of the Economist Intelligence Unit. Data source: Wikipedia (https://en.wikipedia.org/wiki/Democracy_Index)
